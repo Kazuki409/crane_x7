@@ -1,0 +1,4 @@
+# Ignore ROS 2 build, install, and log folders
+/build
+/install
+/log
